@@ -5,11 +5,11 @@ Your companion for placement prep.
 
 PlaceMate is a full-stack web app that helps engineering students prepare for campus placements company by company. Students can read the hiring rounds that candidates report, practise interview questions filtered by topic, difficulty and round, and track their own progress. Every question carries an honest evidence label, so practice material is never passed off as a real interview question.
 
-Live demo: [add your deployed URL here]
+Live demo: https://placemate-zkhh.onrender.com
 
 Built with HTML, CSS and vanilla JavaScript on the frontend, Node.js and Express on the backend, and MongoDB with Mongoose for storage.
 
-<!-- Screenshots: add images to docs/screenshots/ and uncomment these lines. ![Home page](docs/screenshots/home.png) ![Question bank](docs/screenshots/questions.png) ![Dashboard](docs/screenshots/dashboard.png) -->
+
 Table of contents
 Features
 Evidence labels
