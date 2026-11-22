@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Log in - PlaceMate</title><link rel="stylesheet" href="/css/main.css"></head>
+<body><div id="site-header"></div>
+<main><div class="wrap"><div class="card authbox">
+  <div class="tabs" role="tablist">
+    <button type="button" role="tab" data-tab="login" aria-selected="true">Log in</button>
+    <button type="button" role="tab" data-tab="register" aria-selected="false">Create account</button>
+  </div>
+  <form id="auth-form" novalidate>
+    <div id="name-row" hidden><label for="name">Name</label><input id="name" name="name" maxlength="100" autocomplete="name"></div>
+    <label for="email">Email</label><input id="email" name="email" type="email" required autocomplete="email">
+    <label for="password">Password</label><input id="password" name="password" type="password" required autocomplete="current-password">
+    <p id="pw-hint" class="muted small" hidden>At least 8 characters, with one uppercase letter and one number.</p>
+    <div id="auth-msg" style="margin-top:12px"></div>
+    <p><button id="submit" class="btn" type="submit">Log in</button></p>
+  </form>
+</div></div></main>
+<div id="site-footer"></div>
+<script src="/js/api.js"></script><script src="/js/nav.js"></script><script src="/js/login.js"></script>
+</body></html>

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Question Bank - PlaceMate</title><link rel="stylesheet" href="/css/main.css"></head>
+<body><div id="site-header"></div>
+<main><div class="wrap">
+  <h1>Question Bank</h1>
+  <div class="notice"><b>Read the labels.</b> Candidate-reported means a public candidate account says it was asked (wording rewritten, source linked). Practice question means it is not verified as asked in a real interview.</div>
+  <div class="layout">
+    <aside class="card" aria-label="Filters"><form id="filters">
+      <label for="f-search">Search</label><input id="f-search" type="search" maxlength="80">
+      <label for="f-company">Company</label><select id="f-company"></select>
+      <label for="f-category">Topic</label><select id="f-category"></select>
+      <label for="f-difficulty">Difficulty</label><select id="f-difficulty"></select>
+      <label for="f-round">Round</label><select id="f-round"></select>
+      <label for="f-evidence">Evidence</label><select id="f-evidence"></select>
+      <p><button class="btn ghost sm" type="button" id="clear">Clear filters</button></p>
+    </form></aside>
+    <section><p id="count" class="muted" aria-live="polite"></p><div id="list"></div><div class="pager" id="pager"></div></section>
+  </div>
+</div></main>
+<div id="site-footer"></div>
+<script src="/js/api.js"></script><script src="/js/nav.js"></script><script src="/js/questions.js"></script>
+</body></html>

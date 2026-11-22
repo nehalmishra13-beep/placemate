@@ -1,0 +1,1460 @@
+{
+ "generated": "2026-11-16",
+ "note": "Question wording is original. Sources are public pages read on the accessed date. 'sourceDate' is the page's last-updated date, not the interview date.",
+ "companies": [
+  {
+   "slug": "amazon",
+   "name": "Amazon",
+   "overview": "Technology and e-commerce company. This page covers campus software-engineering (SDE) hiring as described by candidates on public pages.",
+   "roles": [
+    "SDE-1",
+    "SDE Intern"
+   ],
+   "hiringProcess": [
+    {
+     "name": "Online assessment",
+     "description": "Candidates describe an online test with several sections. Reported sections include code debugging, coding problems and, in some accounts, MCQs or a behavioral section. Number of coding questions and sections varies between years and campuses."
+    },
+    {
+     "name": "Technical interviews",
+     "description": "Most accounts report two to four technical rounds (video call or face to face), each with one or two coding problems on a shared code editor, plus questions on your resume. Some accounts also mention DBMS, networks and OS questions."
+    },
+    {
+     "name": "Managerial / behavioral discussion",
+     "description": "Several candidates report a managerial or behavioral part and advise reading Amazon's Leadership Principles before the interview."
+    }
+   ],
+   "hiringSources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-on-campus-5/",
+     "title": "Amazon Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-17",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=676428",
+     "title": "Amazon Interview Experience for SDE 1 | On-Campus (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-09-28",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=335188",
+     "title": "Amazon Interview Experience | On-Campus (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-06-30",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=612312",
+     "title": "Amazon Interview Experience for SDE-I (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-08-20",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=729992",
+     "title": "Amazon Interview Experience for SDE-I (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-21",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "topics": [
+    "Arrays",
+    "Linked lists",
+    "Binary trees",
+    "Graphs / BFS",
+    "Binary search",
+    "Stacks",
+    "Design (LRU cache)",
+    "OS basics",
+    "Leadership Principles"
+   ],
+   "prepResources": [
+    {
+     "title": "Amazon Jobs: interview preparation",
+     "url": "https://www.amazon.jobs/en/landing_pages/in-person-interview",
+     "note": "Linked by a candidate as the source of standard behavioral questions. Not reviewed by us; open it to check the current content."
+    }
+   ],
+   "dataNote": "Six candidate accounts (2019 to 2021 campus drives, GeeksforGeeks). No official Amazon source was reviewed for the process, so rounds are candidate-reported and may have changed."
+  },
+  {
+   "slug": "microsoft",
+   "name": "Microsoft",
+   "overview": "Technology company. This page covers campus software-engineering hiring as described by candidates on public pages.",
+   "roles": [
+    "SDE / SWE-1",
+    "SDE Intern"
+   ],
+   "hiringProcess": [
+    {
+     "name": "Online assessment",
+     "description": "Candidates report an online coding test with two or three problems (platforms named in accounts include CoCubes and Mettl). One account says speed of solving mattered for shortlisting."
+    },
+    {
+     "name": "Technical interviews",
+     "description": "One to three technical rounds with coding problems, discussion of your approach and questions on your resume and past work."
+    },
+    {
+     "name": "Final 'AA' round",
+     "description": "Two accounts describe a final round with a senior interviewer that mixes behavioral and cultural-fit questions with some technical discussion."
+    }
+   ],
+   "hiringSources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=134219",
+     "title": "Microsoft interview Experience | Set 49 (For Internship) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2019-01-10",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=486909",
+     "title": "Microsoft Interview Experience (On-Campus Internship) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-08-17",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/microsoft-interview-experience-for-sde-i-on-campus/",
+     "title": "Microsoft Interview Experience for SDE-I (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-21",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=882294",
+     "title": "Microsoft Interview Experience for SDE (On-Campus) 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-09-20",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=976524",
+     "title": "Microsoft Interview Experience for SDE (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-03-10",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=216244",
+     "title": "Microsoft Interview Experience - On campus SDE Intern (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2018-08-02",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/microsoft-interview-experience-for-sde-1-on-campus/",
+     "title": "Microsoft Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-01-27",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "topics": [
+    "Dynamic programming",
+    "Binary trees",
+    "Stacks",
+    "Strings / expression evaluation",
+    "Graphs",
+    "Behavioral / teamwork"
+   ],
+   "prepResources": [],
+   "dataNote": "Seven candidate accounts (2018 to 2023, GeeksforGeeks). Few individual questions were stated clearly in the pages we read, so the question count is small on purpose."
+  },
+  {
+   "slug": "tcs",
+   "name": "TCS",
+   "overview": "IT services company. Fresher hiring is commonly through the TCS NQT test. This page uses candidate accounts and one third-party summary.",
+   "roles": [
+    "Ninja",
+    "Digital",
+    "Prime (mentioned by a third-party summary)"
+   ],
+   "hiringProcess": [
+    {
+     "name": "TCS NQT (online test)",
+     "description": "Candidates describe a proctored online test with aptitude and coding sections. A third-party summary says the official NQT has Foundation and Advanced sections and that scores decide Prime, Digital or Ninja interviews. We have not reviewed the official TCS page, so check it for the current format."
+    },
+    {
+     "name": "Technical interview",
+     "description": "Short (about 15 to 30 minutes) and mostly basics: introduce yourself, projects, programming-language and OOP fundamentals."
+    },
+    {
+     "name": "Managerial and HR",
+     "description": "Ninja interviews are often described as a panel with technical, managerial and HR interviewers. HR questions are personal and situational (family, relocation, goals)."
+    }
+   ],
+   "hiringSources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=946895",
+     "title": "TCS Ninja + Digital Interview Experience (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-01-24",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1032812",
+     "title": "TCS Ninja Interview Experience (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-10",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=546528",
+     "title": "TCS NQT Interview Experience (2020-21) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-01-10",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=890400",
+     "title": "TCS Ninja Interview Experience 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-10-11",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=552181",
+     "title": "TCS Ninja Interview Experience (2021 Virtual) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-01-10",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=993381",
+     "title": "TCS Interview Experience (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-04-03",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://hyring.com/jobseeker-toolkit/interview-questions/company/tcs",
+     "title": "TCS Interview Process & Experience (2026) (Hyring, third-party summary)",
+     "sourceType": "third-party-prep",
+     "sourceDate": null,
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "topics": [
+    "OOP",
+    "C / C++ / Java basics",
+    "Projects",
+    "Aptitude",
+    "Basic coding",
+    "HR"
+   ],
+   "prepResources": [],
+   "dataNote": "Candidate accounts from 2021 to 2023 plus a third-party summary. The NQT format and tracks change often, so treat all round details as possibly out of date."
+  },
+  {
+   "slug": "infosys",
+   "name": "Infosys",
+   "overview": "IT services company. System Engineer hiring is described through campus drives and the InfyTQ certification route.",
+   "roles": [
+    "System Engineer"
+   ],
+   "hiringProcess": [
+    {
+     "name": "Online test",
+     "description": "Candidates describe an aptitude and programming test (on the InfyTQ platform in several accounts). One account says a minimum of 65 percent was needed for the on-the-spot interview."
+    },
+    {
+     "name": "Technical + HR interview",
+     "description": "Often a single interviewer for about 20 to 30 minutes covering projects, OOP, DBMS/SQL and programming basics, then HR questions on strengths, relocation and shifts. Some accounts split this into separate rounds."
+    }
+   ],
+   "hiringSources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=641612",
+     "title": "INFYTQ Interview Experience for System Engineer 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-07-15",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1036368",
+     "title": "Infosys Interview Experience for System Engineer (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-19",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=515284",
+     "title": "Infosys Infytq Interview Experience for System Engineer 2020 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2020-11-20",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=329795",
+     "title": "Infosys Certification Exam | InfyTQ (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": null,
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://static.glassdoor.com.br/Interview/Infosys-System-Engineer-Interview-Questions-EI_IE7927.0,7_KO8,23_IP63.htm",
+     "title": "Infosys System Engineer interview reviews (Glassdoor, anonymous)",
+     "sourceType": "candidate-report",
+     "sourceDate": null,
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://static.glassdoor.nl/Interview/Infosys-Systems-Engineer-Interview-Questions-EI_IE7927.0,7_KO8,24_IP4.htm",
+     "title": "Infosys Systems Engineer interview reviews (Glassdoor, anonymous)",
+     "sourceType": "candidate-report",
+     "sourceDate": null,
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "topics": [
+    "OOP (C++ / Java)",
+    "DBMS and normalization",
+    "SQL (GROUP BY)",
+    "Programming basics",
+    "Projects",
+    "HR"
+   ],
+   "prepResources": [],
+   "dataNote": "Four GeeksforGeeks accounts and Glassdoor reviews (2020 to 2023). The InfyTQ route and thresholds may have changed."
+  }
+ ],
+ "questions": [
+  {
+   "company": "amazon",
+   "title": "Merge two sorted linked lists",
+   "statement": "Given the heads of two linked lists that are each sorted in ascending order, merge them into one sorted list and return its head.",
+   "category": "DSA",
+   "difficulty": "Easy",
+   "round": "Online Assessment",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Use two pointers, one per list, and a dummy head node. Repeatedly attach the smaller current node to the tail, then attach whatever remains of the other list.",
+   "complexity": "Time O(n+m), extra space O(1)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "linked-list"
+   ],
+   "dedupeKey": "amazon:merge-two-sorted-linked-lists"
+  },
+  {
+   "company": "amazon",
+   "title": "Two Sum",
+   "statement": "Given an integer array and a target value, return the indices of two different elements whose values add up to the target.",
+   "category": "DSA",
+   "difficulty": "Easy",
+   "round": "Online Assessment",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Keep a hash map from value to index. For each number x, check whether target - x is already in the map; if so you have the pair, otherwise store x.",
+   "complexity": "Time O(n), space O(n)",
+   "solutionCode": "function twoSum(nums, target) {\n  const seen = new Map();\n  for (let i = 0; i < nums.length; i++) {\n    const need = target - nums[i];\n    if (seen.has(need)) return [seen.get(need), i];\n    seen.set(nums[i], i);\n  }\n  return [];\n}",
+   "codeEntry": "twoSum",
+   "notes": null,
+   "tags": [
+    "array",
+    "hash-map"
+   ],
+   "dedupeKey": "amazon:two-sum"
+  },
+  {
+   "company": "amazon",
+   "title": "Critical connections in a network",
+   "statement": "A network has n servers numbered 0 to n-1 joined by undirected links. A link is critical if removing it leaves some servers unable to reach each other. Return all critical links.",
+   "category": "DSA",
+   "difficulty": "Hard",
+   "round": "Online Assessment",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Run a DFS and record each node's discovery time and the lowest discovery time reachable from its subtree (low-link). A tree edge (u, v) is a bridge when low[v] is greater than disc[u].",
+   "complexity": "Time O(V+E), space O(V+E)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "graph",
+    "dfs",
+    "bridges"
+   ],
+   "dedupeKey": "amazon:critical-connections-in-a-network"
+  },
+  {
+   "company": "amazon",
+   "title": "Paths in a binary tree that sum to K",
+   "statement": "Given a binary tree and a number K, print every downward path (starting and ending at any nodes) whose values add up to K.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Do a DFS and keep the current root-to-node path in a list. At each node, walk backwards along the path adding values; every time the running sum equals K, record that segment.",
+   "complexity": "Time O(n * h) where h is the tree height, space O(h)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "binary-tree",
+    "dfs"
+   ],
+   "dedupeKey": "amazon:paths-in-a-binary-tree-that-sum-to-k"
+  },
+  {
+   "company": "amazon",
+   "title": "Can a number be written as a sum of consecutive numbers?",
+   "statement": "Decide whether a positive integer n can be written as the sum of two or more consecutive positive integers.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "A number can be written this way exactly when it is not a power of two. Divide out all factors of two; if something larger than 1 remains, an odd factor exists and gives a valid run of consecutive numbers.",
+   "complexity": "Time O(log n), space O(1)",
+   "solutionCode": "function canBeSumOfConsecutive(n) {\n  if (n <= 0) return false;\n  while (n % 2 === 0) n /= 2;\n  return n > 1;\n}",
+   "codeEntry": "canBeSumOfConsecutive",
+   "notes": null,
+   "tags": [
+    "math"
+   ],
+   "dedupeKey": "amazon:can-a-number-be-written-as-a-sum-of-consecutive-numbers"
+  },
+  {
+   "company": "amazon",
+   "title": "Minimum knight moves to a target square",
+   "statement": "On an n by n chessboard, find the minimum number of moves a knight needs to get from a start square to a target square.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=468167",
+     "title": "Amazon Interview Experience | On-Campus for SDE-1 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-11-18",
+     "accessedDate": "2026-11-16"
+    },
+    {
+     "url": "https://www.geeksforgeeks.org/?p=729992",
+     "title": "Amazon Interview Experience for SDE-I (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-21",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Treat each square as a graph node and each of the 8 knight moves as an edge, then run BFS from the start. The first time you reach the target gives the minimum number of moves.",
+   "complexity": "Time O(n^2), space O(n^2)",
+   "solutionCode": "function knightMinSteps(n, [sr, sc], [tr, tc]) {\n  const mv = [[1,2],[2,1],[-1,2],[-2,1],[1,-2],[2,-1],[-1,-2],[-2,-1]];\n  const dist = Array.from({ length: n }, () => Array(n).fill(-1));\n  dist[sr][sc] = 0;\n  const q = [[sr, sc]];\n  for (let h = 0; h < q.length; h++) {\n    const [r, c] = q[h];\n    if (r === tr && c === tc) return dist[r][c];\n    for (const [dr, dc] of mv) {\n      const nr = r + dr, nc = c + dc;\n      if (nr >= 0 && nc >= 0 && nr < n && nc < n && dist[nr][nc] < 0) {\n        dist[nr][nc] = dist[r][c] + 1;\n        q.push([nr, nc]);\n      }\n    }\n  }\n  return -1;\n}",
+   "codeEntry": "knightMinSteps",
+   "notes": "Reported in two separate accounts.",
+   "tags": [
+    "graph",
+    "bfs"
+   ],
+   "dedupeKey": "amazon:minimum-knight-moves-to-a-target-square"
+  },
+  {
+   "company": "amazon",
+   "title": "Rotate a square matrix by 90 degrees",
+   "statement": "Rotate an n by n matrix 90 degrees clockwise, in place if possible.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Online Assessment",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-on-campus-5/",
+     "title": "Amazon Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Transpose the matrix (swap m[i][j] with m[j][i]), then reverse every row. This gives a clockwise rotation without extra space.",
+   "complexity": "Time O(n^2), space O(1)",
+   "solutionCode": "function rotateMatrix(m) {\n  const n = m.length;\n  for (let i = 0; i < n; i++)\n    for (let j = i + 1; j < n; j++) [m[i][j], m[j][i]] = [m[j][i], m[i][j]];\n  for (const row of m) row.reverse();\n  return m;\n}",
+   "codeEntry": "rotateMatrix",
+   "notes": null,
+   "tags": [
+    "matrix"
+   ],
+   "dedupeKey": "amazon:rotate-a-square-matrix-by-90-degrees"
+  },
+  {
+   "company": "amazon",
+   "title": "Next greater element",
+   "statement": "For every element of an array, find the first larger element to its right. Use -1 when there is none.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-on-campus-5/",
+     "title": "Amazon Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Scan left to right with a stack of indices whose answer is not found yet. While the current value is larger than the value at the stack top, that top's answer is the current value. Push the current index.",
+   "complexity": "Time O(n), space O(n)",
+   "solutionCode": "function nextGreater(a) {\n  const res = new Array(a.length).fill(-1), st = [];\n  for (let i = 0; i < a.length; i++) {\n    while (st.length && a[st[st.length - 1]] < a[i]) res[st.pop()] = a[i];\n    st.push(i);\n  }\n  return res;\n}",
+   "codeEntry": "nextGreater",
+   "notes": null,
+   "tags": [
+    "stack",
+    "array"
+   ],
+   "dedupeKey": "amazon:next-greater-element"
+  },
+  {
+   "company": "amazon",
+   "title": "Print a binary tree in vertical order",
+   "statement": "Print the nodes of a binary tree column by column, from the leftmost vertical line to the rightmost.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-on-campus-5/",
+     "title": "Amazon Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Do a level-order traversal and give each node a horizontal distance: root 0, left child minus 1, right child plus 1. Group nodes by distance in a map, then print the groups from the smallest distance to the largest.",
+   "complexity": "Time O(n log n) with a sorted map, space O(n)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "binary-tree",
+    "bfs"
+   ],
+   "dedupeKey": "amazon:print-a-binary-tree-in-vertical-order"
+  },
+  {
+   "company": "amazon",
+   "title": "Design an LRU cache",
+   "statement": "Design a cache with a fixed capacity that supports get(key) and put(key, value) in O(1) time and evicts the least recently used entry when full.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/amazon-interview-experience-for-sde-1-on-campus-5/",
+     "title": "Amazon Interview Experience for SDE-1 (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-12-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Combine a hash map with a doubly linked list ordered by recent use. The JavaScript Map below keeps insertion order, so deleting and re-inserting a key on every access moves it to the 'most recent' end, and the first key is the least recently used.",
+   "complexity": "get and put O(1), space O(capacity)",
+   "solutionCode": "class LRUCache {\n  constructor(capacity) { this.cap = capacity; this.m = new Map(); }\n  get(k) {\n    if (!this.m.has(k)) return -1;\n    const v = this.m.get(k);\n    this.m.delete(k);\n    this.m.set(k, v);\n    return v;\n  }\n  put(k, v) {\n    if (this.m.has(k)) this.m.delete(k);\n    this.m.set(k, v);\n    if (this.m.size > this.cap) this.m.delete(this.m.keys().next().value);\n  }\n}",
+   "codeEntry": "LRUCache",
+   "notes": null,
+   "tags": [
+    "design",
+    "hash-map"
+   ],
+   "dedupeKey": "amazon:design-an-lru-cache"
+  },
+  {
+   "company": "amazon",
+   "title": "Minimum number of platforms",
+   "statement": "Given arrival and departure times of trains at a station, find the minimum number of platforms needed so that no train has to wait.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Online Assessment",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=676428",
+     "title": "Amazon Interview Experience for SDE 1 | On-Campus (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-09-28",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Sort arrivals and departures separately. Sweep with two pointers: if the next event is an arrival (arrival <= earliest departure) you need one more platform, otherwise a train leaves. Track the maximum.",
+   "complexity": "Time O(n log n), space O(1) extra",
+   "solutionCode": "function minPlatforms(arr, dep) {\n  const a = [...arr].sort((x, y) => x - y), d = [...dep].sort((x, y) => x - y);\n  let i = 0, j = 0, cur = 0, best = 0;\n  while (i < a.length) {\n    if (a[i] <= d[j]) { cur++; best = Math.max(best, cur); i++; }\n    else { cur--; j++; }\n  }\n  return best;\n}",
+   "codeEntry": "minPlatforms",
+   "notes": null,
+   "tags": [
+    "sorting",
+    "greedy"
+   ],
+   "dedupeKey": "amazon:minimum-number-of-platforms"
+  },
+  {
+   "company": "amazon",
+   "title": "Bottom view of a binary tree",
+   "statement": "Print the nodes that are visible when looking at a binary tree from below.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=676428",
+     "title": "Amazon Interview Experience for SDE 1 | On-Campus (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-09-28",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Use level-order traversal with horizontal distances (root 0, left minus 1, right plus 1). For each distance keep overwriting the stored node, so the last node seen at that distance (the lowest) wins. Print in order of distance.",
+   "complexity": "Time O(n log n), space O(n)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "binary-tree",
+    "bfs"
+   ],
+   "dedupeKey": "amazon:bottom-view-of-a-binary-tree"
+  },
+  {
+   "company": "amazon",
+   "title": "Gas station / circular tour",
+   "statement": "Several petrol pumps are arranged in a circle. For each pump you know the petrol available and the distance to the next pump. Find a starting pump from which a truck can complete the circle, or report that none exists.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=612312",
+     "title": "Amazon Interview Experience for SDE-I (On-Campus) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-08-20",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "If total petrol is less than total distance, no start works. Otherwise scan once, keeping a running tank; whenever it goes negative, the start must be after the current pump, so reset the tank and move the start.",
+   "complexity": "Time O(n), space O(1)",
+   "solutionCode": "function canCompleteCircuit(petrol, dist) {\n  let total = 0, tank = 0, start = 0;\n  for (let i = 0; i < petrol.length; i++) {\n    const d = petrol[i] - dist[i];\n    total += d;\n    tank += d;\n    if (tank < 0) { start = i + 1; tank = 0; }\n  }\n  return total >= 0 ? start : -1;\n}",
+   "codeEntry": "canCompleteCircuit",
+   "notes": null,
+   "tags": [
+    "greedy",
+    "array"
+   ],
+   "dedupeKey": "amazon:gas-station-circular-tour"
+  },
+  {
+   "company": "amazon",
+   "title": "Necessary conditions for deadlock",
+   "statement": "State the conditions that must all hold for a deadlock to occur and give an example of each.",
+   "category": "OS",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "SDE-1",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=335188",
+     "title": "Amazon Interview Experience | On-Campus (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-06-30",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "The four conditions are mutual exclusion (a resource is used by one process at a time), hold and wait (a process holds one resource while waiting for another), no preemption (resources cannot be taken away) and circular wait (a cycle of processes each waiting for the next). Example: thread 1 locks A then wants B, while thread 2 locks B then wants A.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "os",
+    "deadlock"
+   ],
+   "dedupeKey": "amazon:necessary-conditions-for-deadlock"
+  },
+  {
+   "company": "amazon",
+   "title": "Tell me about a time you took ownership of a problem",
+   "statement": "Describe a situation where you took responsibility for a problem that was not strictly yours. What did you do and what was the result?",
+   "category": "Behavioral",
+   "difficulty": "Medium",
+   "round": "Behavioral / managerial",
+   "role": "SDE-1",
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Use the STAR structure: Situation, Task, Action, Result. Keep the focus on your own actions and give a measurable result.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": "Practice question. Candidates report Amazon's Leadership Principles come up in interviews, but this exact wording is ours and is not a reported question.",
+   "tags": [
+    "leadership-principles"
+   ],
+   "dedupeKey": "amazon:tell-me-about-a-time-you-took-ownership-of-a-problem"
+  },
+  {
+   "company": "microsoft",
+   "title": "Check if brackets are balanced",
+   "statement": "Given a string made of (), {} and [], check whether every bracket is closed by the right type and in the right order.",
+   "category": "DSA",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "SDE Intern",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=134219",
+     "title": "Microsoft interview Experience | Set 49 (For Internship) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2019-01-10",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Push opening brackets on a stack. For each closing bracket, pop and check it matches. The string is balanced if no mismatch occurs and the stack is empty at the end.",
+   "complexity": "Time O(n), space O(n)",
+   "solutionCode": "function isBalanced(s) {\n  const pair = { ')': '(', ']': '[', '}': '{' }, st = [];\n  for (const c of s) {\n    if ('([{'.includes(c)) st.push(c);\n    else if (pair[c]) { if (st.pop() !== pair[c]) return false; }\n  }\n  return st.length === 0;\n}",
+   "codeEntry": "isBalanced",
+   "notes": null,
+   "tags": [
+    "stack",
+    "string"
+   ],
+   "dedupeKey": "microsoft:check-if-brackets-are-balanced"
+  },
+  {
+   "company": "microsoft",
+   "title": "Length of the longest increasing subsequence",
+   "statement": "Given an array of integers, find the length of its longest strictly increasing subsequence (elements need not be adjacent).",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Online Assessment",
+   "role": "SDE Intern",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=486909",
+     "title": "Microsoft Interview Experience (On-Campus Internship) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-08-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Maintain an array 'tails' where tails[k] is the smallest possible last value of an increasing subsequence of length k+1. For each number, binary search its position in tails and overwrite it (or append). The final length of tails is the answer.",
+   "complexity": "Time O(n log n), space O(n)",
+   "solutionCode": "function lisLength(a) {\n  const t = [];\n  for (const x of a) {\n    let lo = 0, hi = t.length;\n    while (lo < hi) {\n      const m = (lo + hi) >> 1;\n      if (t[m] < x) lo = m + 1; else hi = m;\n    }\n    t[lo] = x;\n  }\n  return t.length;\n}",
+   "codeEntry": "lisLength",
+   "notes": null,
+   "tags": [
+    "dp",
+    "binary-search"
+   ],
+   "dedupeKey": "microsoft:length-of-the-longest-increasing-subsequence"
+  },
+  {
+   "company": "microsoft",
+   "title": "Boundary traversal of a binary tree, alternate nodes only",
+   "statement": "Print the boundary of a binary tree (left edge, leaves, right edge) but only every alternate node of that boundary.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "SDE Intern",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=486909",
+     "title": "Microsoft Interview Experience (On-Campus Internship) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-08-17",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Collect the normal boundary in order: left boundary top-down (without leaves), all leaves left to right, right boundary bottom-up (without leaves). Then print every second element of that list.",
+   "complexity": "Time O(n), space O(n)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": "The candidate describes this as a variation of the standard boundary traversal problem.",
+   "tags": [
+    "binary-tree"
+   ],
+   "dedupeKey": "microsoft:boundary-traversal-of-a-binary-tree-alternate-nodes-only"
+  },
+  {
+   "company": "microsoft",
+   "title": "Evaluate a boolean expression given as a string",
+   "statement": "Given a boolean expression written as a string, compute its value.",
+   "category": "DSA",
+   "difficulty": "Medium",
+   "round": "Online Assessment",
+   "role": "SDE Intern",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=216244",
+     "title": "Microsoft Interview Experience - On campus SDE Intern (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2018-08-02",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Parse with two stacks (operands and operators) using operator precedence, or convert to postfix and evaluate with a stack.",
+   "complexity": "Time O(n), space O(n)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": "The exact operators and format are not recorded here. Check the source page for the original problem.",
+   "tags": [
+    "stack",
+    "parsing"
+   ],
+   "dedupeKey": "microsoft:evaluate-a-boolean-expression-given-as-a-string"
+  },
+  {
+   "company": "microsoft",
+   "title": "Tell me about a time you worked in a team",
+   "statement": "Describe a project where you worked with others. What was your role, how did you handle disagreements, and what did the team achieve?",
+   "category": "Behavioral",
+   "difficulty": "Easy",
+   "round": "Final (AA) round",
+   "role": "SDE / SWE-1",
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Use the STAR structure and be specific about your own contribution and what you learned.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": "Practice question. Candidates report behavioral and teamwork questions in Microsoft's final round, but this exact wording is ours.",
+   "tags": [
+    "teamwork"
+   ],
+   "dedupeKey": "microsoft:tell-me-about-a-time-you-worked-in-a-team"
+  },
+  {
+   "company": "tcs",
+   "title": "Difference between C and C++",
+   "statement": "Explain how C and C++ differ.",
+   "category": "Programming",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1032812",
+     "title": "TCS Ninja Interview Experience (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-10",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "C is a procedural language. C++ adds classes and objects, inheritance and polymorphism, references, function and operator overloading, templates, exceptions and the STL, and supports both procedural and object-oriented styles.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "c",
+    "cpp"
+   ],
+   "dedupeKey": "tcs:difference-between-c-and-c"
+  },
+  {
+   "company": "tcs",
+   "title": "What is OOP? Explain its principles",
+   "statement": "Explain object-oriented programming and its main principles.",
+   "category": "OOP",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=546528",
+     "title": "TCS NQT Interview Experience (2020-21) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-01-10",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "OOP organises code around objects that combine data and behaviour. The four principles are encapsulation (hide data behind methods), abstraction (expose only what is needed), inheritance (reuse and extend classes) and polymorphism (one interface, many implementations). Give a real-life example for each.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "oop"
+   ],
+   "dedupeKey": "tcs:what-is-oop-explain-its-principles"
+  },
+  {
+   "company": "tcs",
+   "title": "Purpose of the volatile keyword",
+   "statement": "Explain how and why the volatile keyword is used.",
+   "category": "OOP",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=546528",
+     "title": "TCS NQT Interview Experience (2020-21) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-01-10",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "In C and C++, volatile tells the compiler a variable may change outside the program's normal flow (hardware register, signal handler, another thread), so every read and write must really happen and not be optimised away. It does not make operations atomic or thread-safe. In Java, volatile instead guarantees visibility and ordering of a field across threads.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "c",
+    "java"
+   ],
+   "dedupeKey": "tcs:purpose-of-the-volatile-keyword"
+  },
+  {
+   "company": "tcs",
+   "title": "Lemmatization, stop words and tokenization in NLP",
+   "statement": "Explain what tokenization, stop words and lemmatization mean in natural language processing.",
+   "category": "Other",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=552181",
+     "title": "TCS Ninja Interview Experience (2021 Virtual) (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-01-10",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Tokenization splits text into units such as words. Stop words are very common words (for example 'the', 'is') often removed because they carry little meaning. Lemmatization reduces a word to its dictionary base form using grammar, so 'running' becomes 'run'.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "nlp"
+   ],
+   "dedupeKey": "tcs:lemmatization-stop-words-and-tokenization-in-nlp"
+  },
+  {
+   "company": "tcs",
+   "title": "Tell me about yourself",
+   "statement": "Introduce yourself.",
+   "category": "HR",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=890400",
+     "title": "TCS Ninja Interview Experience 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-10-11",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Give a 60 to 90 second summary: your education, one or two projects or skills that match the role, and why you want this job. Do not read out your resume line by line.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "hr"
+   ],
+   "dedupeKey": "tcs:tell-me-about-yourself"
+  },
+  {
+   "company": "tcs",
+   "title": "Where do you see yourself in five years?",
+   "statement": "Describe where you want to be professionally in five years.",
+   "category": "HR",
+   "difficulty": "Easy",
+   "round": "HR Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=993381",
+     "title": "TCS Interview Experience (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-04-03",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Show that you want to grow with the company: building skills, taking on responsibility and contributing to real projects. Avoid naming a different company or career.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "hr"
+   ],
+   "dedupeKey": "tcs:where-do-you-see-yourself-in-five-years"
+  },
+  {
+   "company": "tcs",
+   "title": "Walk me through your projects",
+   "statement": "Describe the projects you have worked on.",
+   "category": "Other",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "Ninja",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=890400",
+     "title": "TCS Ninja Interview Experience 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2022-10-11",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "For each project be ready to explain the problem, your own role, the technology and why you chose it, one difficulty you solved, and the result. Interviewers often ask follow-up questions on anything written on your resume.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "projects"
+   ],
+   "dedupeKey": "tcs:walk-me-through-your-projects"
+  },
+  {
+   "company": "infosys",
+   "title": "Explain OOP concepts with real-life examples",
+   "statement": "Explain the main object-oriented programming concepts using everyday examples.",
+   "category": "OOP",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=641612",
+     "title": "INFYTQ Interview Experience for System Engineer 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-07-15",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Cover encapsulation, abstraction, inheritance and polymorphism. Example: a car (class) with private engine details (encapsulation), a simple pedal interface (abstraction), an ElectricCar that extends Car (inheritance), and different cars responding differently to accelerate() (polymorphism).",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "oop"
+   ],
+   "dedupeKey": "infosys:explain-oop-concepts-with-real-life-examples"
+  },
+  {
+   "company": "infosys",
+   "title": "Normal forms in DBMS",
+   "statement": "Explain database normalization and the normal forms.",
+   "category": "DBMS",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=641612",
+     "title": "INFYTQ Interview Experience for System Engineer 2022 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2021-07-15",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Normalization removes redundancy. 1NF: every column holds atomic values. 2NF: 1NF and no partial dependency of non-key columns on part of a composite key. 3NF: 2NF and no transitive dependency between non-key columns. BCNF: for every dependency X to Y, X is a superkey.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "dbms"
+   ],
+   "dedupeKey": "infosys:normal-forms-in-dbms"
+  },
+  {
+   "company": "infosys",
+   "title": "Operator overloading vs function overriding",
+   "statement": "Explain operator overloading and function overriding and how they differ.",
+   "category": "OOP",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1036368",
+     "title": "Infosys Interview Experience for System Engineer (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-19",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Operator overloading gives an operator a new meaning for user-defined types and is resolved at compile time. Function overriding is when a derived class redefines a base class virtual function with the same signature and is resolved at run time (dynamic dispatch). Overloading is about different signatures in one scope; overriding is about the same signature across classes.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "cpp",
+    "oop"
+   ],
+   "dedupeKey": "infosys:operator-overloading-vs-function-overriding"
+  },
+  {
+   "company": "infosys",
+   "title": "Friend functions in C++",
+   "statement": "What is a friend function and when would you use one?",
+   "category": "OOP",
+   "difficulty": "Medium",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1036368",
+     "title": "Infosys Interview Experience for System Engineer (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-19",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "A friend function is declared inside a class with the friend keyword. It is not a member, but it can access the class's private and protected members. It is not inherited. It is useful for operators such as << but it weakens encapsulation, so use it sparingly.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "cpp"
+   ],
+   "dedupeKey": "infosys:friend-functions-in-c"
+  },
+  {
+   "company": "infosys",
+   "title": "Header files in C",
+   "statement": "What are header files in C and why do we use them?",
+   "category": "Programming",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=1036368",
+     "title": "Infosys Interview Experience for System Engineer (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2023-07-19",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "A header file holds declarations (function prototypes, macros, types) that many source files share. #include copies it into a file before compilation. Include guards (#ifndef / #define / #endif) stop a header being included twice.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "c"
+   ],
+   "dedupeKey": "infosys:header-files-in-c"
+  },
+  {
+   "company": "infosys",
+   "title": "SQL queries using GROUP BY",
+   "statement": "Write queries that use GROUP BY, for example counting employees per department.",
+   "category": "SQL",
+   "difficulty": "Easy",
+   "round": "Technical Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://static.glassdoor.com.br/Interview/Infosys-System-Engineer-Interview-Questions-EI_IE7927.0,7_KO8,23_IP63.htm",
+     "title": "Infosys System Engineer interview reviews (Glassdoor, anonymous)",
+     "sourceType": "candidate-report",
+     "sourceDate": null,
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "GROUP BY collapses rows with the same value into one row so you can use aggregates. Example: SELECT dept, COUNT(*) FROM employee GROUP BY dept; add HAVING COUNT(*) > 5 to keep only large departments (HAVING filters groups, WHERE filters rows).",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": "The reviewer only says two GROUP BY queries were asked; the example here is ours.",
+   "tags": [
+    "sql"
+   ],
+   "dedupeKey": "infosys:sql-queries-using-group-by"
+  },
+  {
+   "company": "infosys",
+   "title": "Why Infosys? Are you willing to relocate?",
+   "statement": "Why do you want to join this company, and can you relocate?",
+   "category": "HR",
+   "difficulty": "Easy",
+   "round": "HR Interview",
+   "role": "System Engineer",
+   "verificationStatus": "candidate-reported",
+   "sources": [
+    {
+     "url": "https://www.geeksforgeeks.org/?p=515284",
+     "title": "Infosys Infytq Interview Experience for System Engineer 2020 (GeeksforGeeks)",
+     "sourceType": "candidate-report",
+     "sourceDate": "2020-11-20",
+     "accessedDate": "2026-11-16"
+    }
+   ],
+   "approach": "Give honest reasons tied to the company (training, projects, growth) and say clearly whether you can relocate or work shifts.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "hr"
+   ],
+   "dedupeKey": "infosys:why-infosys-are-you-willing-to-relocate"
+  },
+  {
+   "company": null,
+   "title": "Reverse a linked list",
+   "statement": "Reverse a singly linked list and return the new head.",
+   "category": "DSA",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Walk the list with three pointers (prev, current, next). At each step point current.next to prev, then advance all three.",
+   "complexity": "Time O(n), space O(1)",
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "linked-list"
+   ],
+   "dedupeKey": "general:reverse-a-linked-list"
+  },
+  {
+   "company": null,
+   "title": "Find the missing number",
+   "statement": "An array holds the numbers 1 to n with exactly one number missing. Find it.",
+   "category": "DSA",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "XOR all numbers from 1 to n with all array elements; equal values cancel and the missing number remains. (The sum formula n(n+1)/2 minus the array sum also works.)",
+   "complexity": "Time O(n), space O(1)",
+   "solutionCode": "function missingNumber(a) {\n  const n = a.length + 1;\n  let x = 0;\n  for (let i = 1; i <= n; i++) x ^= i;\n  for (const v of a) x ^= v;\n  return x;\n}",
+   "codeEntry": "missingNumber",
+   "notes": null,
+   "tags": [
+    "array",
+    "bit-manipulation"
+   ],
+   "dedupeKey": "general:find-the-missing-number"
+  },
+  {
+   "company": null,
+   "title": "ACID properties of a transaction",
+   "statement": "Explain the ACID properties in a database.",
+   "category": "DBMS",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Atomicity: all steps happen or none do. Consistency: a transaction moves the database from one valid state to another. Isolation: concurrent transactions do not see each other's partial work. Durability: committed data survives crashes.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "dbms",
+    "transactions"
+   ],
+   "dedupeKey": "general:acid-properties-of-a-transaction"
+  },
+  {
+   "company": null,
+   "title": "Process vs thread",
+   "statement": "Explain the difference between a process and a thread.",
+   "category": "OS",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "A process is a running program with its own address space and resources. Threads are lightweight units inside a process that share its memory and resources but have their own stack and registers. Switching between threads is cheaper, but shared memory needs synchronization.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "os"
+   ],
+   "dedupeKey": "general:process-vs-thread"
+  },
+  {
+   "company": null,
+   "title": "TCP vs UDP",
+   "statement": "Compare TCP and UDP.",
+   "category": "Networks",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "TCP is connection-oriented and reliable: it orders data, retransmits lost packets and controls congestion, at the cost of overhead. UDP is connectionless with no delivery guarantee, so it is faster and suits streaming, gaming and DNS.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "networks"
+   ],
+   "dedupeKey": "general:tcp-vs-udp"
+  },
+  {
+   "company": null,
+   "title": "INNER JOIN vs LEFT JOIN",
+   "statement": "What is the difference between INNER JOIN and LEFT JOIN?",
+   "category": "SQL",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "INNER JOIN returns only rows with a match in both tables. LEFT JOIN returns every row of the left table and fills the right table's columns with NULL when there is no match.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "sql",
+    "joins"
+   ],
+   "dedupeKey": "general:inner-join-vs-left-join"
+  },
+  {
+   "company": null,
+   "title": "Speed of a train crossing a pole",
+   "statement": "A train 150 m long passes a telegraph pole in 15 seconds. What is its speed in km/h?",
+   "category": "Aptitude",
+   "difficulty": "Easy",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Speed = distance / time = 150 / 15 = 10 m/s. Multiply by 18/5 to convert to km/h: 10 x 18/5 = 36 km/h.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "aptitude",
+    "speed-distance-time"
+   ],
+   "dedupeKey": "general:speed-of-a-train-crossing-a-pole"
+  },
+  {
+   "company": null,
+   "title": "Describe a disagreement with a teammate",
+   "statement": "Tell me about a time you disagreed with a teammate and how you resolved it.",
+   "category": "Behavioral",
+   "difficulty": "Medium",
+   "round": "Practice",
+   "role": null,
+   "verificationStatus": "practice",
+   "sources": [],
+   "approach": "Use STAR. Show that you listened, focused on the goal rather than the person, and reached a decision the team could support.",
+   "complexity": null,
+   "solutionCode": null,
+   "codeEntry": null,
+   "notes": null,
+   "tags": [
+    "teamwork"
+   ],
+   "dedupeKey": "general:describe-a-disagreement-with-a-teammate"
+  }
+ ]
+}
